@@ -1,3 +1,3 @@
-# Git.Zero
+# Git.Course
 Course
 ## project Notes
